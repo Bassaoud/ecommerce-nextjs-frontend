@@ -1,0 +1,258 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "meta_description": "meta description",
+                "meta_title": "meta title",
+                "slug": "s",
+                "createdAt": "2023-03-15T16:30:44.565Z",
+                "updatedAt": "2023-03-15T17:37:18.237Z",
+                "publishedAt": "2023-03-15T16:47:49.969Z",
+                "nom": "Canape 1",
+                "description": "Lapidum aditibus ut missilium promptu missilium congesta habentes undique congesta habentes propugnaculis moenia moenia si moenia ita congesta ita pinnis telaque multitudine aditibus saxa insistebant ut se telaque aditibus promptu reducti insistebant undique reducti intra multitudine moenia undique lapidum missilium interius multitudine persuasione missilium si saxa intra persuasione in obseratis.",
+                "prix": 1200,
+                "image": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "name": "Baraka-salon-et-deco-marocain-sedaris-montpellier-canape18.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1536,
+                            "height": 2048,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape18.jpg",
+                                    "hash": "thumbnail_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 117,
+                                    "height": 156,
+                                    "size": 4.57,
+                                    "url": "/uploads/thumbnail_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9.jpg"
+                                },
+                                "medium": {
+                                    "name": "medium_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape18.jpg",
+                                    "hash": "medium_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 563,
+                                    "height": 750,
+                                    "size": 65.39,
+                                    "url": "/uploads/medium_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9.jpg"
+                                },
+                                "small": {
+                                    "name": "small_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape18.jpg",
+                                    "hash": "small_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 375,
+                                    "height": 500,
+                                    "size": 32.42,
+                                    "url": "/uploads/small_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9.jpg"
+                                },
+                                "large": {
+                                    "name": "large_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape18.jpg",
+                                    "hash": "large_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 1000,
+                                    "size": 104.57,
+                                    "url": "/uploads/large_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9.jpg"
+                                }
+                            },
+                            "hash": "Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 77.59,
+                            "url": "/uploads/Baraka_salon_et_deco_marocain_sedaris_montpellier_canape18_552cb269d9.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-15T16:29:34.340Z",
+                            "updatedAt": "2023-03-15T16:29:34.340Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "meta_description": "meta_description2",
+                "meta_title": "meta_title2",
+                "slug": "sedari-2",
+                "createdAt": "2023-03-15T16:32:24.989Z",
+                "updatedAt": "2023-03-15T17:38:30.844Z",
+                "publishedAt": "2023-03-15T16:47:54.460Z",
+                "nom": "Canape 2",
+                "description": "Lapidum aditibus ut missilium promptu missilium congesta habentes undique congesta habentes propugnaculis moenia moenia si moenia ita congesta ita pinnis telaque multitudine aditibus saxa insistebant ut se telaque aditibus promptu reducti insistebant undique reducti intra multitudine moenia undique lapidum missilium interius multitudine persuasione missilium si saxa intra persuasione in obseratis.",
+                "prix": 1600,
+                "image": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1600,
+                            "height": 1200,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "thumbnail_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 208,
+                                    "height": 156,
+                                    "size": 6.93,
+                                    "url": "/uploads/thumbnail_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                },
+                                "medium": {
+                                    "name": "medium_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "medium_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 563,
+                                    "size": 56.59,
+                                    "url": "/uploads/medium_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                },
+                                "small": {
+                                    "name": "small_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "small_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 375,
+                                    "size": 29.92,
+                                    "url": "/uploads/small_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                },
+                                "large": {
+                                    "name": "large_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "large_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 750,
+                                    "size": 88.75,
+                                    "url": "/uploads/large_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                }
+                            },
+                            "hash": "Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 42.93,
+                            "url": "/uploads/Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-15T16:31:46.960Z",
+                            "updatedAt": "2023-03-15T16:31:46.960Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "meta_description": "meta_description2",
+                "meta_title": "meta_title2",
+                "slug": "sedari-3",
+                "createdAt": "2023-03-15T16:45:05.472Z",
+                "updatedAt": "2023-03-15T17:37:47.077Z",
+                "publishedAt": "2023-03-15T16:47:57.432Z",
+                "nom": "Canape 3",
+                "description": "Lapidum aditibus ut missilium promptu missilium congesta habentes undique congesta habentes propugnaculis moenia moenia si moenia ita congesta ita pinnis telaque multitudine aditibus saxa insistebant ut se telaque aditibus promptu reducti insistebant undique reducti intra multitudine moenia undique lapidum missilium interius multitudine persuasione missilium si saxa intra persuasione in obseratis.",
+                "prix": 1200,
+                "image": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1600,
+                            "height": 1200,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "thumbnail_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 208,
+                                    "height": 156,
+                                    "size": 6.93,
+                                    "url": "/uploads/thumbnail_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                },
+                                "medium": {
+                                    "name": "medium_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "medium_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 563,
+                                    "size": 56.59,
+                                    "url": "/uploads/medium_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                },
+                                "small": {
+                                    "name": "small_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "small_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 375,
+                                    "size": 29.92,
+                                    "url": "/uploads/small_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                },
+                                "large": {
+                                    "name": "large_Baraka-salon-et-deco-marocain-sedaris-montpellier-canape15.jpg",
+                                    "hash": "large_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 750,
+                                    "size": 88.75,
+                                    "url": "/uploads/large_Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg"
+                                }
+                            },
+                            "hash": "Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 42.93,
+                            "url": "/uploads/Baraka_salon_et_deco_marocain_sedaris_montpellier_canape15_3e65b00523.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-15T16:31:46.960Z",
+                            "updatedAt": "2023-03-15T16:31:46.960Z"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}

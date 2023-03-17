@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "meta_description": "meta description",
+                "meta_title": "meta title",
+                "slug": "s",
+                "createdAt": "2023-03-15T16:30:44.565Z",
+                "updatedAt": "2023-03-15T17:37:18.237Z",
+                "publishedAt": "2023-03-15T16:47:49.969Z",
+                "nom": "Canape 1",
+                "description": "Lapidum aditibus ut missilium promptu missilium congesta habentes undique congesta habentes propugnaculis moenia moenia si moenia ita congesta ita pinnis telaque multitudine aditibus saxa insistebant ut se telaque aditibus promptu reducti insistebant undique reducti intra multitudine moenia undique lapidum missilium interius multitudine persuasione missilium si saxa intra persuasione in obseratis.",
+                "prix": 1200
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "meta_description": "meta_description2",
+                "meta_title": "meta_title2",
+                "slug": "sedari-2",
+                "createdAt": "2023-03-15T16:32:24.989Z",
+                "updatedAt": "2023-03-15T17:38:30.844Z",
+                "publishedAt": "2023-03-15T16:47:54.460Z",
+                "nom": "Canape 2",
+                "description": "Lapidum aditibus ut missilium promptu missilium congesta habentes undique congesta habentes propugnaculis moenia moenia si moenia ita congesta ita pinnis telaque multitudine aditibus saxa insistebant ut se telaque aditibus promptu reducti insistebant undique reducti intra multitudine moenia undique lapidum missilium interius multitudine persuasione missilium si saxa intra persuasione in obseratis.",
+                "prix": 1600
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "meta_description": "meta_description2",
+                "meta_title": "meta_title2",
+                "slug": "sedari-3",
+                "createdAt": "2023-03-15T16:45:05.472Z",
+                "updatedAt": "2023-03-15T17:37:47.077Z",
+                "publishedAt": "2023-03-15T16:47:57.432Z",
+                "nom": "Canape 3",
+                "description": "Lapidum aditibus ut missilium promptu missilium congesta habentes undique congesta habentes propugnaculis moenia moenia si moenia ita congesta ita pinnis telaque multitudine aditibus saxa insistebant ut se telaque aditibus promptu reducti insistebant undique reducti intra multitudine moenia undique lapidum missilium interius multitudine persuasione missilium si saxa intra persuasione in obseratis.",
+                "prix": 1200
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
