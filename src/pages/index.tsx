@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
@@ -19,14 +20,16 @@ export default function Home() {
       </Head>
       {products.data.map(product => (
         <div key={product.attributes.nom} className={styles.product}>
+          <Link href={''}>
           <div className={styles.product__Row}>
-            <div className={styles.product__ColImg}> 
+            <div className={styles.product__ColImg}>  
               <img src={fromImageToUrl(product.attributes.image)} />
             </div>
             <div className={styles.product__Col}>
               {product.attributes.nom} {product.attributes.prix}
             </div>
           </div>
+          </Link>
         </div>
         ))}
     </>
